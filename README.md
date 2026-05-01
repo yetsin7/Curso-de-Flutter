@@ -5,6 +5,11 @@
 
 **Repositorio en GitHub:** https://github.com/yetsin7/Curso-de-Flutter
 
+## Documentacion de referencia
+
+Consulta [DOCUMENTACION-OFICIAL.md](./DOCUMENTACION-OFICIAL.md) para seguir la
+ruta recomendada de Flutter y Dart desde la documentacion oficial.
+
 ---
 
 ## 🇳🇮 Para estudiantes de Nicaragua (y de toda Latinoamérica)
