@@ -3,7 +3,7 @@
 > Ruta progresiva para aprender Dart y Flutter entendiendo código, interfaz,
 > estado, renderizado y comportamiento real de una app móvil.
 
-**Repositorio en GitHub:** https://github.com/yetsin7/curso-de-flutter
+**Repositorio en GitHub:** https://github.com/yetsin7/Curso-de-Flutter
 
 ---
 
@@ -116,8 +116,8 @@ dart --version
 Primero, clona el repositorio:
 
 ```bash
-git clone https://github.com/yetsin7/curso-de-flutter.git
-cd curso-de-flutter
+git clone https://github.com/yetsin7/Curso-de-Flutter.git
+cd Curso-de-Flutter
 ```
 
 ### Módulos de Dart puro (01–11)
@@ -235,7 +235,7 @@ Si este libro te está sirviendo, hay varias formas de apoyarlo y ayudar a
 que más personas puedan aprender:
 
 - ⭐ **Dale estrella en GitHub** — ayuda a que otros lo encuentren:
-  https://github.com/yetsin7/curso-de-flutter
+https://github.com/yetsin7/Curso-de-Flutter
 - 📣 **Comparte el repositorio** con amigos, compañeros de clase, profesores,
   grupos de estudio, comunidades de programadores en Nicaragua y la región.
 - 🐛 **Abre un issue** si encuentras un error, una explicación poco clara,
