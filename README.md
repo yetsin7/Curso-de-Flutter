@@ -1,4 +1,4 @@
-# 📘 Libro de Flutter — De cero a PRO
+# 📘 Curso de Flutter — De cero a PRO
 
 > Ruta progresiva para aprender Dart y Flutter entendiendo código, interfaz,
 > estado, renderizado y comportamiento real de una app móvil.
@@ -51,7 +51,7 @@ ya cumplió su propósito.
 - Código real que puedes ejecutar en tu computadora.
 - Múltiples formas de resolver el mismo problema.
 - Ejercicios prácticos con soluciones.
-- Inspirado en el estilo del **Libro de Python** del mismo autor, pero
+- Inspirado en el estilo del **Curso de Python** del mismo autor, pero
   enfocado completamente en el ecosistema **Dart/Flutter**.
 
 ---
@@ -220,7 +220,7 @@ Flutter UI; después estudia arquitectura, persistencia, i18n y testing.
 ## 📖 Dataset: La Biblia RV60
 
 Este repositorio usa la **Biblia Reina-Valera 1960** como dataset de práctica,
-en formato SQLite. Es el mismo dataset del Libro de Python.
+en formato SQLite. Es el mismo dataset del Curso de Python.
 
 La base de datos está en `datos/biblia_rv60.sqlite3`. Consulta
 `datos/README.md` para la estructura de tablas.

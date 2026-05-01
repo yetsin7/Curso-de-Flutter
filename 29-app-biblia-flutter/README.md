@@ -2,7 +2,7 @@
 
 ## Descripción
 
-App Flutter profesional para leer la Biblia Reina-Valera 1960. Es el proyecto final del Libro de Flutter: una aplicación completa con UI moderna, base de datos SQLite local, Clean Architecture y todas las funcionalidades de una app de lectura bíblica.
+App Flutter profesional para leer la Biblia Reina-Valera 1960. Es el proyecto final del Curso de Flutter: una aplicación completa con UI moderna, base de datos SQLite local, Clean Architecture y todas las funcionalidades de una app de lectura bíblica.
 
 ---
 
@@ -136,6 +136,6 @@ El texto de los versículos puede contener marcas Strong como `<S>7225</S>`. La 
 
 ---
 
-## Módulos previos del Libro de Flutter
+## Módulos previos del Curso de Flutter
 
 Este es el módulo 29, el proyecto final del curso. Los módulos anteriores cubren los conceptos individuales que se integran aquí: widgets, navegación, estado, persistencia local, bases de datos SQLite y arquitectura limpia.

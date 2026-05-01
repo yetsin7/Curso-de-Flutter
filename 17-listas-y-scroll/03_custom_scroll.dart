@@ -126,7 +126,7 @@ class PantallaCustomScroll extends StatelessWidget {
                       SizedBox(height: 40), // espacio para la barra de estado
                       Icon(Icons.school, size: 48, color: Colors.white),
                       SizedBox(height: 8),
-                      Text('Libro de Flutter',
+                      Text('Curso de Flutter',
                           style: TextStyle(
                               color: Colors.white,
                               fontSize: 18,

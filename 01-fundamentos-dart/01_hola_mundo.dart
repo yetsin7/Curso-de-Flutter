@@ -30,7 +30,7 @@ void main() {
   // print() envia informacion a la consola.
   // Esa consola es una salida visible del software para mostrar resultados.
   print('Hola, mundo!');
-  print('Bienvenido al Libro de Flutter.');
+  print('Bienvenido al Curso de Flutter.');
 
   // ─────────────────────────────────────────────────────────────────────────
   // IMPRIMIR DISTINTOS TIPOS DE VALORES

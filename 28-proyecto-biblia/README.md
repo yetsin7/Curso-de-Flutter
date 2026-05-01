@@ -2,7 +2,7 @@
 
 Este módulo es la versión **Dart puro** del proyecto Biblia Reina-Valera 1960. Sin Flutter, sin UI: solo scripts de consola que acceden a una base de datos SQLite real.
 
-Es el equivalente al capítulo 29 del Libro de Python, pero escrito en Dart.
+Es el equivalente al capítulo 29 del Curso de Python, pero escrito en Dart.
 
 ---
 

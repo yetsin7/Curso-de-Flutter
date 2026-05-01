@@ -1,4 +1,4 @@
-# Carpeta `datos/` — Recursos del Libro de Flutter
+# Carpeta `datos/` — Recursos del Curso de Flutter
 
 Esta carpeta contiene la base de datos propia de este curso. La copia local de
 `biblia_rv60.sqlite3` se usa en los scripts Dart de consola y puede
